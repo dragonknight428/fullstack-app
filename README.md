@@ -1,6 +1,4 @@
-# 🍛 Khaana Express: Full-Stack Restaurant Food Delivery App
-
-Khaana Express app is a full-stack food delivery/ordering and restaurant management platform. It features a secure and scalable backend built with Node.js, Express, and PostgreSQL (Dockerized), and a modern mobile frontend using React Native (Expo Router).
+# Food Delivery App
 
 ---
 
@@ -31,11 +29,6 @@ Khaana Express app is a full-stack food delivery/ordering and restaurant managem
 ---
 
 ## 🛠️ Backend Setup
-
-```sh
-git clone https://github.com/salmanazamdev/restaurant-fullstack-app.git
-cd restaurant-fullstack-app/backend
-```
 
 Start Docker services:
 ```sh
@@ -128,14 +121,3 @@ restaurant-fullstack-app/
 - 💳 Payment integration
 - 📊 Admin analytics dashboard
 - 🧾 Order history and reordering features
-
----
-
-## 👨‍💻 Author
-
-Muhammad Salman Azam  
-[GitHub](https://github.com/salmanazamdev) • [LinkedIn](linkedin.com/in/salmanazamdev)
-
----
-
-🥘 **Khaana Express – Your meal, one tap away.**
